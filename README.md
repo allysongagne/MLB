@@ -5,4 +5,4 @@ This project was created to explore Billy Beane's theory that the baseball stati
 The data is derived from Baseball Refernece 
 
 The excel spreadsheet data.cvs is the data table for python_line_mlb
-The excel spreadsheet data.cvs-Copy is the data table for final_mlb
+The excel spreadsheet data2.cvs is the data table for final_mlb
